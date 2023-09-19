@@ -2,7 +2,9 @@
 
 introduction 
 link to the deployed site: :https://lnkd.in/dfEu4wa9
+
 link to blog post: https://www.linkedin.com/posts/leslie-ochieng-9ab03a249_portfolio-project-blog-post-the-project-was-activity-7109910728307802113-9DEZ?utm_source=share&utm_medium=member_desktop
+
 link to linkedln account: www.linkedin.com/in/leslie-ochieng-9ab03a249
 
 installation 
